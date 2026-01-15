@@ -1,1 +1,2 @@
 This is register page of smart programming website
+User should register before login
